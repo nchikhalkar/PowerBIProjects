@@ -1,1 +1,1 @@
-
+I’ve crafted a diverse range of projects across multiple industries—including **healthcare, sales, banking, and automotive**—to deepen my expertise and deliver compelling insights. Each project culminates in dynamic, visually engaging Power BI dashboards that showcase the power of data. Explore my work and enjoy the journey!
