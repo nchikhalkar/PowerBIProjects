@@ -15,4 +15,20 @@ They review the dashboard monthly, and need information on revenue trends, produ
 5.Use layout to focus attention
 6.Tell a clear story
 
+**Purpose of the project**
+
+**1. Who is your audience?**
+    - Regional sales managers
+    
+**2. What are their business goals and objectives?**
+    - Increase revenue, minimize revenue loss due to lack of inventory
+
+**3. What specific questions do they need answers to?**
+  - How is revenue trending? Which are performing best/worst?
+    are product out of stock?
+    
+**4. How often will the dashboard be reviewed?**
+  - once in a month
+
+
 
